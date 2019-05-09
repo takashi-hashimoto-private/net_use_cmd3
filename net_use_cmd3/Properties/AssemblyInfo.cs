@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // アセンブリに関連付けられている情報を変更するには、
 // これらの属性値を変更してください。
 [assembly: AssemblyTitle("net_use_cmd3")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("ファイルサーバー（singo05, singo06への接続コマンド）")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("信号電材株式会社")]
 [assembly: AssemblyProduct("net_use_cmd3")]
-[assembly: AssemblyCopyright("Copyright ©  2019")]
+[assembly: AssemblyCopyright("Copyright ©  2019　信号電材株式会社")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
